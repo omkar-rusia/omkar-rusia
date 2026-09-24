@@ -36,3 +36,23 @@ I’m also interested in startups, entrepreneurship, automation, and turning use
 ---
 
 ⭐ I’m learning in public, one project at a time.
+
+## Technical toolkit
+
+**Learning now**  
+![Python — Learning](https://img.shields.io/badge/Python-Learning-3776AB?logo=python&logoColor=white)
+![SQL — Learning](https://img.shields.io/badge/SQL-Learning-4479A1?logo=postgresql&logoColor=white)
+![DSA — Learning](https://img.shields.io/badge/DSA-Learning-6A5ACD)
+
+**Exploring next**  
+![Data Science — Exploring](https://img.shields.io/badge/Data_Science-Exploring-2E8B57)
+![Machine Learning — Exploring](https://img.shields.io/badge/Machine%20Learning-Exploring-F7931E)
+![Deep Learning — Exploring](https://img.shields.io/badge/Deep%20Learning-Exploring-8A2BE2)
+![Generative AI — Exploring](https://img.shields.io/badge/Generative%20AI-Exploring-FF6F61)
+![LLMs, RAG & AI Agents — Exploring](https://img.shields.io/badge/LLMs%2FRAG%2FAI_Agents-Exploring-4B8BBE)
+
+**Used in my projects**  
+![JavaScript — Project work](https://img.shields.io/badge/JavaScript-Project_work-F7DF1E?logo=javascript&logoColor=black)
+![Node.js — Project work](https://img.shields.io/badge/Node.js-Project_work-339933?logo=nodedotjs&logoColor=white)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omkar-rusia-a04a3a3bb/)
