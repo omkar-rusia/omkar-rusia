@@ -12,15 +12,17 @@ I’m building my engineering skills step by step: starting with Python and prob
 - **AI engineering:** Generative AI, LLMs, RAG, AI agents, APIs, and deployment
 - **Software development:** backend fundamentals, automation, and reliable project structure
 
-## Featured projects
+## Projects
 
-- [**GNS-NURSING**](https://github.com/omkarrusia446-del/GNS-NURSING) — a nursing and care support application. See the repository for its current implementation and setup details.
+- [**CSV Student Insights**](https://github.com/omkarrusia446-del/csv-student-insights) — summarize a CSV of scores with Python’s standard library.
+- [**Study Hours Predictor**](https://github.com/omkarrusia446-del/study-hours-predictor) — a small linear regression exercise with a fictional dataset.
+- [**FAQ Search Assistant**](https://github.com/omkarrusia446-del/faq-search-assistant) — local TF-IDF search over a small FAQ set; no LLM calls.
+
+## Earlier projects
+
+- [**GNS-NURSING**](https://github.com/omkarrusia446-del/GNS-NURSING) — a nursing and care support application.
 - [**TRUSTSHIELD AI / DETECTION-AI**](https://github.com/omkarrusia446-del/DETECTION-AI) — a deepfake analysis project. I’m working to document implemented checks, demo behavior, and limitations clearly.
 - [**BIDvid-AI**](https://github.com/omkarrusia446-del/BIDvid-AI) — an AI video-creation workspace with a Node.js backend; the README describes the current demo flow and storage limits.
-
-## What I'm building toward
-
-I’m interested in practical tools for data analysis, document and resume understanding, recommendations, workflow automation, and AI-assisted products. I want to get the fundamentals right before taking on larger systems.
 
 ## Current focus
 
@@ -29,14 +31,7 @@ I’m interested in practical tools for data analysis, document and resume under
 3. Build and explain small projects before moving to larger AI systems.
 4. Improve project documentation and contribute to open source as I gain experience.
 
-## Beyond code
-
-I’m interested in startups, entrepreneurship, automation, and turning useful technical ideas into products. My long-term goal is to design, build, and deploy reliable AI and data applications, and to grow into opportunities with teams around the world.
-
-## Connect
-
-- GitHub: [@omkarrusia446-del](https://github.com/omkarrusia446-del)
-- LinkedIn: add your profile link here if you want it public
+I’m also interested in startups, entrepreneurship, automation, and turning useful technical ideas into products. My long-term goal is to design, build, and deploy reliable AI and data applications.
 
 ---
 
