@@ -1,6 +1,6 @@
 # Hi, I'm Omkar 👋
 
-🎓 I am a second-year B.Tech student specializing in **Data Science**  
+🎓 I am a second-year B.Tech student  
 🎯 Aspiring **AI/ML Engineer**
 
 I’m building my engineering skills step by step: starting with Python and problem solving, then growing into data science, machine learning, and practical AI applications. I learn by building, testing ideas, debugging, and documenting what I discover.
